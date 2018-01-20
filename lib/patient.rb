@@ -1,4 +1,4 @@
-Class Patient
+class Patient
 
   attr_accessor :name, :appointments
 
