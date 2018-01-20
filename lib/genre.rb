@@ -5,4 +5,6 @@
         @name = name
         @songs = []
       end
+      
+      
     end
