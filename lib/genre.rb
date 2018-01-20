@@ -15,4 +15,10 @@
         @songs
       end
       
+      def artists
+        @songs.collect do |artist|
+          artists << artist
+        end
+      end
+      
     end
