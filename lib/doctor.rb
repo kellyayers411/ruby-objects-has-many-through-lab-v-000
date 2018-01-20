@@ -1,4 +1,4 @@
-Class Doctor
+class Doctor
 
   attr_accessor :name, :appointment
 
