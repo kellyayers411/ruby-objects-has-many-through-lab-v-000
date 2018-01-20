@@ -17,7 +17,7 @@
       
       def genres
         @songs.collect do |song|
-          genres << song.genre
+          song.genre
         end
       end
 
